@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Interactive Population Dashboard using D3 and Cordova ###
 			-----------------------------------
 				|	Requirements:		|
@@ -53,3 +54,7 @@ B. Setup the Frontend/Mobile/Web:
 		4. Open the .xcodeproj file in the platforms/ios folder and run the app in the emulator or on your iOS device. To run the app on your iOS device, you need an Apple developer certificate and an app provisioning profile.
 
 **Disclaimer:: This is a dummy app not to be used on a production environment, needs more patch ups.
+=======
+# population-dashboard
+Interactive Population Dashboard using D3 and Cordova
+>>>>>>> f73098099e4f4d75135dd520f919a1a556f34032
